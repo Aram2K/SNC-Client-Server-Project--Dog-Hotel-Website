@@ -1,0 +1,7 @@
+{"title":"Monday","theDate":"12-19-2023","seatFile":"Monday.txt"}
+{"title":"Tuesday","theDate":"12-20-2023","seatFile":"Tuesday.txt"}
+{"title":"Wednesday","theDate":"12-21-2023","seatFile":"Wednesday.txt"}
+{"title":"Thursday","theDate":"12-22-2023","seatFile":"Thursday.txt"}
+{"title":"Friday","theDate":"12-23-2023","seatFile":"Friday.txt"}
+{"title":"Saturday","theDate":"12-24-2023","seatFile":"Saturday.txt"}
+{"title":"Sunday","theDate":"12-25-2023","seatFile":"Sunday.txt"}

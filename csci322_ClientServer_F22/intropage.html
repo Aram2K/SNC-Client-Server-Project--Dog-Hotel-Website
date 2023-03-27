@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Dog Hotel</title>
+    <style>
+        body {
+            background-image: url("img/doghotel.jpg");
+        }
+        .flex-container {
+            display: flex;
+        }
+
+        .container {
+            flex: 1;
+            border: 2px solid yellow;
+            margin-right: 20px;
+            text-align: center ;
+            background-color: lightgray;
+        }
+        .button:hover {
+            background-color: dodgerblue;
+            transition: 0.1s;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex-container ">
+        <div class="container signup">
+            <a href='signup.php'>
+                <button type="button" class="button">Sign up</button>
+            </a>
+        </div>
+        <div class="container signin">
+            <a href='login.php'>
+                <button type="button" class="button">Login</button>
+            </a>
+        </div>
+        <div class="container guest">
+            <a href="readEventsguest.php">
+                <button type="button" class="button">Continue as guest</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+{"firstName":"ellie","lastName":"rigby","email":"here@snc.edu","password":"dog"}
+{"firstName":"sadie","lastName":"osadie","email":"there@snc.edu","password":"cat"}
+{"firstName":"Aram","lastName":"Adamyan","email":"aram.adamyan@snc.edu","password":"123123"}
